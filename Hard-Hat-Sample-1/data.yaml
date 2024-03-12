@@ -1,0 +1,14 @@
+names:
+- head
+- helmet
+- person
+nc: 3
+roboflow:
+  license: Public Domain
+  project: hard-hat-sample-b0dxn
+  url: https://app.roboflow.com/suleman/hard-hat-sample-b0dxn/1
+  version: 1
+  workspace: suleman
+test: ../test/images
+train: Hard-Hat-Sample-1/train/images
+val: Hard-Hat-Sample-1/valid/images
